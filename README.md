@@ -1,21 +1,22 @@
 # Project Title
-
+How to live life.
 ## Forkthis Repo for Practice
 
 ### Write your author name here. eg. By Nicole
-
+Ian Canaday
 ### Description
 
-Create a description and fill it in here.
+I have no idea what would be a good decreption
 
 ## Languages used
 
 What languages were used for this repo:
-List them
+HTML
+They didnt say anything after this...
 
 ### Known Bugs
 
-Are there any? If so what are they?
+That this is confusing and i miss spell words
 
 ## License
 
@@ -26,3 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+* Hang up girl dont call me
